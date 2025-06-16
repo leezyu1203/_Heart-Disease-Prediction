@@ -1,4 +1,4 @@
-from sklearn.pipeline import Pipeline
+from sklearn import pipeline
 import streamlit as st
 import joblib
 import pandas as pd
